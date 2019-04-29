@@ -1,0 +1,22 @@
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.csproj.CoreCompileInputs.cache
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.AssemblyInfoInputs.cache
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.AssemblyInfo.cs
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.deps.json
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.runtimeconfig.json
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.runtimeconfig.dev.json
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.dll
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.pdb
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.dll
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.pdb
+D:/OneDrive/kurslar/asp.net core mvc 2/5-Working with Data/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.csprojResolveAssemblyReference.cache
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.deps.json
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.runtimeconfig.json
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.runtimeconfig.dev.json
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.dll
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/bin/Debug/netcoreapp2.0/EntityFrameworkCore2.pdb
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.csprojAssemblyReference.cache
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.csproj.CoreCompileInputs.cache
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.AssemblyInfoInputs.cache
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.AssemblyInfo.cs
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.dll
+/Users/OnurYilmaz/Downloads/Working-With-Data-Source (1)/7-Migrations/EntityFrameworkCore2/EntityFrameworkCore2/obj/Debug/netcoreapp2.0/EntityFrameworkCore2.pdb
